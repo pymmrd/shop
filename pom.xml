@@ -15,6 +15,7 @@
     <modules>
         <module>shop-common</module>
         <module>shop-manager</module>
+        <module>shop-generator</module>
     </modules>
     <name>shop</name>
     <description>Demo project for Spring Boot</description>
